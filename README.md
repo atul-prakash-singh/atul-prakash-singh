@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/atul-prakash-singh/atul-prakash-singh/blob/main/banner.png" alt="Hello world">
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/atul-prakash-singh/count.svg" />
