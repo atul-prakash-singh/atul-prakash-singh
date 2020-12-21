@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/atul-prakash-singh/count.svg" />
+</p>
+
+## About me
+
+I'm Atul Prakash Singh, an Android Engineer at [Altran](https://www.altran.com/it/en/).
+
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
+
 <!--
 **atul-prakash-singh/atul-prakash-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
