@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm Atul Prakash Singh, an Android Engineer at [Altran](https://www.altran.com/it/en/).
+I'm Atul Prakash Singh, an Android Engineer at [Capgemini Engineering](https://capgemini-engineering.com/in/en/).
 
 ## Things I am passionate about
 
